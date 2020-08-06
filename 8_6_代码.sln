@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_不使用继承", "8_6_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_使用继承", "01_使用继承\01_使用继承.csproj", "{13C8E188-3305-43BE-9D90-C9CADDFA245D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_使用继承的练习", "02_使用继承的练习\02_使用继承的练习.csproj", "{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
