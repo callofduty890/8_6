@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_6_代码", "8_6_代码\8_6_代码.csproj", "{D33D5C6E-255E-40ED-9A0C-4F197DED1276}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_不使用继承", "8_6_代码\00_不使用继承.csproj", "{D33D5C6E-255E-40ED-9A0C-4F197DED1276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_使用继承", "01_使用继承\01_使用继承.csproj", "{13C8E188-3305-43BE-9D90-C9CADDFA245D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D33D5C6E-255E-40ED-9A0C-4F197DED1276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33D5C6E-255E-40ED-9A0C-4F197DED1276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33D5C6E-255E-40ED-9A0C-4F197DED1276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C8E188-3305-43BE-9D90-C9CADDFA245D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
