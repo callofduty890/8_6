@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_使用继承", "01_使�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_使用继承的练习", "02_使用继承的练习\02_使用继承的练习.csproj", "{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_里氏转换", "03_里氏转换\03_里氏转换.csproj", "{036C54F4-0D52-4E88-BFFB-57504F285438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_抽象工厂", "04_抽象工厂\04_抽象工厂.csproj", "{2EF88FAB-D686-4F6E-9F41-B8832C650BF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D3AFFD0-BB74-4444-971C-FC6CFB97486E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036C54F4-0D52-4E88-BFFB-57504F285438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036C54F4-0D52-4E88-BFFB-57504F285438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036C54F4-0D52-4E88-BFFB-57504F285438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036C54F4-0D52-4E88-BFFB-57504F285438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF88FAB-D686-4F6E-9F41-B8832C650BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF88FAB-D686-4F6E-9F41-B8832C650BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF88FAB-D686-4F6E-9F41-B8832C650BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF88FAB-D686-4F6E-9F41-B8832C650BF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
